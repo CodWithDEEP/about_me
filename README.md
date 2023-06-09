@@ -2,4 +2,4 @@ Hello, I'm a passionate Python coder with a strong focus on web scraping project
 
 With experience in web scraping, I have honed my abilities to navigate websites, extract data, and analyze it for meaningful insights. I enjoy the challenge of solving data-related problems and creating efficient solutions.
 
-As a Python enthusiast, I constantly seek opportunities to improve my skills and stay updated with the latest advancements in the field. I am eager to contribute to projects that involve data manipulation, analysis, and visualization.
+As a Python enthusiast, I constantly seek opportunities to improve my skills and stay updated with the latest advancements in the field. I am eager to contribute to projects that involve data manipulation, analysis, and visualization..
